@@ -56,16 +56,32 @@ I enjoy transforming raw data into meaningful insights through **SQL analysis, i
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Knowledge Assistant — RAG System
+### 📊 Sales & Profit Analytics — Power BI
 
-A local Retrieval-Augmented Generation application that allows users to upload PDF documents and ask questions about their contents.
+An interactive **Sales & Profit Analytics Dashboard** built using Microsoft Power BI to analyze business performance across sales, profit, orders, customers, products, and time.
 
-The system uses document processing, text chunking, vector embeddings, semantic search, and a locally running LLM to generate answers grounded in uploaded documents.
+The dashboard uses a dedicated **Date Table, DAX measures, KPI cards, interactive slicers, time-based analysis, conditional formatting, and drill-through functionality** to provide meaningful business insights.
 
-**Tech:** Python, LangChain, ChromaDB, Ollama, Llama 3, Streamlit
+Key analysis includes:
+
+- Total Sales
+- Total Profit
+- Total Orders
+- Total Customers
+- Profit Margin
+- Monthly Sales & Profit Trends
+- Sales Growth Analysis
+- Previous Month Performance
+- Product Performance
+- Customer Analysis
+- Regional / Geographic Analysis
+- Interactive Filtering
+- Drill-Through Analysis
+
+**Tech:** Microsoft Power BI, DAX, Power Query, Date Table, Data Visualization
 
 🔗 **GitHub:**  
-https://github.com/ansarikhurshid7896-hash/AI-Knowledge-Assistant---RAG-System
+[Add your Sales & Profit Analytics repository link here]
 
 ---
 
@@ -73,7 +89,21 @@ https://github.com/ansarikhurshid7896-hash/AI-Knowledge-Assistant---RAG-System
 
 A SQL-based customer churn analysis project focused on understanding customer behavior, subscription patterns, payment activity, support interactions, usage trends, and factors associated with customer churn.
 
-The project uses advanced SQL techniques including CTEs, window functions, `ROW_NUMBER()`, and `LAG()` for analytical queries.
+The project uses analytical SQL techniques including **CTEs, window functions, `ROW_NUMBER()`, and `LAG()`** to investigate churn patterns and customer behavior.
+
+Key analysis includes:
+
+- Overall Customer Churn Rate
+- Churn by Subscription Plan
+- Churn Reasons
+- Late Payments vs Churn
+- Technical Support vs Churn
+- Online Security vs Churn
+- Customer Satisfaction vs Churn
+- Support Ticket Analysis
+- Latest Payment Analysis
+- Month-over-Month Usage Analysis
+- Customer Risk Indicators
 
 **Tech:** PostgreSQL, SQL, CTEs, Window Functions
 
@@ -82,16 +112,42 @@ https://github.com/ansarikhurshid7896-hash/Customer-Churn-Analysis-PostgreSQL
 
 ---
 
+### 🤖 AI Knowledge Assistant — RAG System
+
+A local **Retrieval-Augmented Generation (RAG)** application that allows users to upload PDF documents and ask questions about their contents.
+
+The system processes uploaded documents, splits them into chunks, creates vector embeddings, performs semantic retrieval, and uses a locally running LLM to generate answers based on the retrieved information.
+
+**Tech:** Python, LangChain, ChromaDB, Ollama, Llama 3, Streamlit
+
+🔗 **GitHub:**  
+https://github.com/ansarikhurshid7896-hash/AI-Knowledge-Assistant---RAG-System
+
+---
+
 ### 📊 E-Commerce Sales Analytics — Power BI
 
 An interactive Power BI dashboard created to analyze e-commerce sales performance across sales, profit, orders, quantity, brands, cities, payment methods, and customer ratings.
 
-The project includes a dedicated Date Table, DAX measures, KPI reporting, time-based analysis, and interactive filtering.
+The project includes a dedicated **Date Table, DAX measures, KPI reporting, time-based analysis, and interactive filtering**.
+
+Key analysis includes:
+
+- Total Sales
+- Total Profit
+- Total Orders
+- Total Quantity
+- Sales by Month
+- Sales by City
+- Sales by Brand
+- Sales by Payment Method
+- Customer Ratings
+- Quantity Sold by Brand
 
 **Tech:** Microsoft Power BI, DAX, Power Query, Date Table
 
 🔗 **GitHub:**  
-https://github.com/ansarikhurshid7896-hash/E-Commerce-Sales-Analytics-PowerBI
+[Add your E-Commerce Power BI repository link here]
 
 ---
 
@@ -101,10 +157,25 @@ An interactive Excel dashboard created during my early journey into Data Analyti
 
 The dashboard analyzes sales performance, profitability, products, regions, customers, employees, and sales channels using Excel charts, formulas, KPI reporting, and interactive slicers.
 
-**Tech:** Microsoft Excel, Excel Charts, Formulas, Slicers
+Key analysis includes:
+
+- Total Sales
+- Total Profit
+- Total Orders
+- Units Sold
+- Top 10 Products
+- Top 5 Cities by Profit
+- Region-wise Sales
+- Monthly Sales Trends
+- Category-wise Sales
+- Employee Performance
+- Customer Type Contribution
+- Offline vs Online Sales
+
+**Tech:** Microsoft Excel, Excel Charts, Excel Formulas, Slicers
 
 🔗 **GitHub:**  
-https://github.com/ansarikhurshid7896-hash/E-Commerce-Sales-Analytics-Excel
+[Add your E-Commerce Excel repository link here]
 
 ---
 
@@ -139,12 +210,21 @@ I'm interested in opportunities related to:
 Data
  │
  ├── SQL / PostgreSQL
+ │    ├── CTEs
+ │    ├── Window Functions
+ │    ├── Joins
+ │    └── Data Analysis
  │
  ├── Excel
+ │    ├── Formulas
+ │    ├── Charts
+ │    ├── Slicers
+ │    └── Dashboards
  │
  ├── Power BI
  │    ├── DAX
  │    ├── Power Query
+ │    ├── Date Tables
  │    └── Data Visualization
  │
  ├── Python
