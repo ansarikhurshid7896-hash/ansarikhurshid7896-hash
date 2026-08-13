@@ -147,7 +147,7 @@ Key analysis includes:
 **Tech:** Microsoft Power BI, DAX, Power Query, Date Table
 
 🔗 **GitHub:**  
-[Add your E-Commerce Power BI repository link here]
+[]
 
 ---
 
@@ -175,7 +175,7 @@ Key analysis includes:
 **Tech:** Microsoft Excel, Excel Charts, Excel Formulas, Slicers
 
 🔗 **GitHub:**  
-[Add your E-Commerce Excel repository link here]
+[https://github.com/ansarikhurshid7896-hash/Excel-E-Commerce-Sales-Dashboard]
 
 ---
 
