@@ -81,7 +81,7 @@ Key analysis includes:
 **Tech:** Microsoft Power BI, DAX, Power Query, Date Table, Data Visualization
 
 🔗 **GitHub:**  
-[Add your Sales & Profit Analytics repository link here]
+[https://github.com/ansarikhurshid7896-hash/Sales-and-Profit-Analytics-Dashboard]
 
 ---
 
