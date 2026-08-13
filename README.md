@@ -69,6 +69,7 @@ Key analysis includes:
 - Total Orders
 - Total Customers
 - Profit Margin
+- Dynamic Title Monthly
 - Monthly Sales & Profit Trends
 - Sales Growth Analysis
 - Previous Month Performance
@@ -81,7 +82,7 @@ Key analysis includes:
 **Tech:** Microsoft Power BI, DAX, Power Query, Date Table, Data Visualization
 
 🔗 **GitHub:**  
-[https://github.com/ansarikhurshid7896-hash/Sales-and-Profit-Analytics-Dashboard]
+https://github.com/ansarikhurshid7896-hash/Sales-and-Profit-Analytics-Dashboard
 
 ---
 
@@ -147,7 +148,7 @@ Key analysis includes:
 **Tech:** Microsoft Power BI, DAX, Power Query, Date Table
 
 🔗 **GitHub:**  
-[]
+https://github.com/ansarikhurshid7896-hash/E-Commerce-Sales-Analytics-Dashboard-Power-BI
 
 ---
 
@@ -175,7 +176,7 @@ Key analysis includes:
 **Tech:** Microsoft Excel, Excel Charts, Excel Formulas, Slicers
 
 🔗 **GitHub:**  
-[https://github.com/ansarikhurshid7896-hash/Excel-E-Commerce-Sales-Dashboard]
+https://github.com/ansarikhurshid7896-hash/Excel-E-Commerce-Sales-Dashboard
 
 ---
 
