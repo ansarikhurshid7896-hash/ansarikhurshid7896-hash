@@ -69,7 +69,7 @@ Key analysis includes:
 - Total Orders
 - Total Customers
 - Profit Margin
-- Dynamic Title Monthly
+- Dynamic Monthly Titles
 - Monthly Sales & Profit Trends
 - Sales Growth Analysis
 - Previous Month Performance
@@ -82,7 +82,7 @@ Key analysis includes:
 **Tech:** Microsoft Power BI, DAX, Power Query, Date Table, Data Visualization
 
 🔗 **GitHub:**  
-https://github.com/ansarikhurshid7896-hash/Sales-and-Profit-Analytics-Dashboard
+[View Project](https://github.com/ansarikhurshid7896-hash/Sales-and-Profit-Analytics-Dashboard)
 
 ---
 
@@ -109,7 +109,7 @@ Key analysis includes:
 **Tech:** PostgreSQL, SQL, CTEs, Window Functions
 
 🔗 **GitHub:**  
-https://github.com/ansarikhurshid7896-hash/Customer-Churn-Analysis-PostgreSQL
+[View Project](https://github.com/ansarikhurshid7896-hash/Customer-Churn-Analysis-PostgreSQL)
 
 ---
 
@@ -122,7 +122,7 @@ The system processes uploaded documents, splits them into chunks, creates vector
 **Tech:** Python, LangChain, ChromaDB, Ollama, Llama 3, Streamlit
 
 🔗 **GitHub:**  
-https://github.com/ansarikhurshid7896-hash/AI-Knowledge-Assistant---RAG-System
+[View Project](https://github.com/ansarikhurshid7896-hash/AI-Knowledge-Assistant---RAG-System)
 
 ---
 
@@ -148,7 +148,7 @@ Key analysis includes:
 **Tech:** Microsoft Power BI, DAX, Power Query, Date Table
 
 🔗 **GitHub:**  
-https://github.com/ansarikhurshid7896-hash/E-Commerce-Sales-Analytics-Dashboard-Power-BI
+[View Project](https://github.com/ansarikhurshid7896-hash/E-Commerce-Sales-Analytics-Dashboard-Power-BI)
 
 ---
 
@@ -176,7 +176,7 @@ Key analysis includes:
 **Tech:** Microsoft Excel, Excel Charts, Excel Formulas, Slicers
 
 🔗 **GitHub:**  
-https://github.com/ansarikhurshid7896-hash/Excel-E-Commerce-Sales-Dashboard
+[View Project](https://github.com/ansarikhurshid7896-hash/Excel-E-Commerce-Sales-Dashboard)
 
 ---
 
